@@ -1,0 +1,22 @@
+{
+  "short_name": "Heimdal Spilletid",
+  "name": "Heimdal Fotball Spilletid",
+  "description": "Spilletid & Bytte-verktøy for trenere (ÆØÅ support)",
+  "lang": "nb-NO",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgYXJpYS1sYWJlbD0iSGVpbWRhbCBGb3RiYWxsIExvZ28iPjxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBmaWxsPSIjMDA2NDAwIi8+PHRleHQgeD0iNTAiIHk9IjY1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjREMxNDNDIiBmb250LXNpemU9IjQwIiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1mYW1pbHk9IkludGVyLCBzYW5zLXNlcmlmIj5ILUY8L3RleHQ+PGNpcmNsZSBjeD0iNTAiIGN5PSIyMCIgcj0iOCIgZmlsbD0iI0ZGRDcwMCIvPjwvc3ZnPg==",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgYXJpYS1sYWJlbD0iSGVpbWRhbCBGb3RiYWxsIExvZ28iPjxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBmaWxsPSIjMDA2NDAwIi8+PHRleHQgeD0iNTAiIHk9IjY1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjREMxNDNDIiBmb250LXNpemU9IjQwIiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1mYW1pbHk9IkludGVyLCBzYW5zLXNlcmlmIj5ILUY8L3RleHQ+PGNpcmNsZSBjeD0iNTAiIGN5PSIyMCIgcj0iOCIgZmlsbD0iI0ZGRDcwMCIvPjwvc3ZnPg==",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#006400",
+  "background_color": "#FFFFFF"
+}
